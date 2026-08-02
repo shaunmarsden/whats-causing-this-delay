@@ -1,0 +1,40 @@
+# What's Actually Causing This Delay?
+
+<p>
+  <img alt="Status: Working tool" src="https://img.shields.io/badge/status-working%20tool-2563eb">
+  <a href="LICENSE"><img alt="Licence: MIT" src="https://img.shields.io/badge/licence-MIT-lightgrey"></a>
+</p>
+
+Diagnose whether someone's ongoing delay on a decision is genuine indecision, an unstated concern, a real approval dependency, or a soft no, before deciding how to respond.
+
+## Why
+
+"Let me think about it" can mean several genuinely different things, and the right response is different for each. Pushing for a faster answer helps with indecision but does nothing for a real dependency, and treating a soft no as more patience needed just delays an honest answer everyone would rather have sooner.
+
+## Use It
+
+Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the exchange so far and how long it has gone on. It diagnoses:
+
+- **Indecision**, genuinely positive, no stated concern, a fear of the wrong call, addressed by making the decision feel safer, not by pushing
+- **Unstated concern**, something specific not yet said outright
+- **Approval dependency**, a real, named process this genuinely depends on, where reassurance changes nothing
+- **Soft no**, repeated deferral with no genuine movement, likely a decision against
+- **Disqualification**, the fit was never really there
+
+See [the worked example](example/): three fictional employees each waiting on a manager's decision, one genuine indecision, one a real named dependency, one a soft no, each needing a genuinely different response rather than the same generic patience.
+
+Use [the blank template](templates/diagnosis-template.md) for your own case.
+
+No installation, project, or coding required to try it once.
+
+## Before You Use It
+
+This diagnoses only. Deciding what to actually say or do next, and any message sent, stays your own call.
+
+## Licence
+
+MIT.
+
+## Feedback
+
+Used it on a real stalled decision? [Start a discussion](https://github.com/shaunmarsden/whats-causing-this-delay/discussions) if the diagnosis did not fit.
