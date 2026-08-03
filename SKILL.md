@@ -43,4 +43,4 @@ Do not produce a confident diagnosis when:
 
 This diagnoses only. Deciding what to actually say or do next, and any resulting message, stays with you.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank template](templates/diagnosis-template.md) for your own case.
+For a fictional worked example, read [the worked example](example/). For the harder cases, an unstated concern mentioned once then dropped, a genuine disqualification, and a request to draft an incentive, read [the second worked example](example-two/). Use [the blank template](templates/diagnosis-template.md) for your own case, and [the review checklist](checks/checklist.md) before deciding how to respond.

@@ -11,6 +11,14 @@ Diagnose whether someone's ongoing delay on a decision is genuine indecision, an
 
 "Let me think about it" can mean several genuinely different things, and the right response is different for each. Pushing for a faster answer helps with indecision but does nothing for a real dependency, and treating a soft no as more patience needed just delays an honest answer everyone would rather have sooner.
 
+```mermaid
+flowchart TB
+    A["1. Paste the exchange and how long it's gone on"]
+    B["2. Diagnosed: indecision, concern, dependency, soft no, or gone"]
+    C["3. What actually helps this specific state, not generic patience"]
+    A --> B --> C
+```
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the exchange so far and how long it has gone on. It diagnoses:
@@ -21,9 +29,19 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 - **Soft no**, repeated deferral with no genuine movement, likely a decision against
 - **Disqualification**, the fit was never really there
 
-See [the worked example](example/): three fictional employees each waiting on a manager's decision, one genuine indecision, one a real named dependency, one a soft no, each needing a genuinely different response rather than the same generic patience.
+<details>
+<summary><strong>See exactly what it produces</strong></summary>
 
-Use [the blank template](templates/diagnosis-template.md) for your own case.
+1. Which of the five states actually fits, with fact kept separate from inference
+2. What would actually help that specific state, not generic patience or pushing
+3. A plain statement when the evidence points to a soft no or disqualification, not a hedge to stay optimistic
+4. A refusal, not a draft, if asked for a concession or incentive to speed things up
+
+</details>
+
+See [the worked example](example/): three fictional employees each waiting on a manager's decision, one genuine indecision, one a real named dependency, one a soft no, each needing a genuinely different response rather than the same generic patience. For the harder cases, an unstated concern mentioned once then dropped, a genuine disqualification, and a request to draft an incentive, read [the second worked example](example-two/).
+
+Use [the blank template](templates/diagnosis-template.md) for your own case, and [the review checklist](checks/checklist.md) before deciding how to respond.
 
 No installation, project, or coding required to try it once.
 
