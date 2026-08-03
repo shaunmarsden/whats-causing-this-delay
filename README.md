@@ -38,3 +38,7 @@ MIT.
 ## Feedback
 
 Used it on a real stalled decision? [Start a discussion](https://github.com/shaunmarsden/whats-causing-this-delay/discussions) if the diagnosis did not fit.
+
+## Part of a Family
+
+This is one of a family of free tools generalising [practical-ai-sales-workflows](https://github.com/shaunmarsden/practical-ai-sales-workflows) patterns beyond sales. See [sibling-projects](https://github.com/shaunmarsden/sibling-projects) for the rest, or use [the router](https://github.com/shaunmarsden/sibling-projects/blob/main/ROUTER.md) if you are not sure which one actually fits.
