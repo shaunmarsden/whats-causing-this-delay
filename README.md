@@ -43,10 +43,6 @@ No installation, project, or coding required to try it once.
 
 This diagnoses only. Deciding what to actually say or do next, and any message sent, stays your own call.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Used it on a real stalled decision? [Start a discussion](https://github.com/shaunmarsden/whats-causing-this-delay/discussions) if the diagnosis did not fit.
