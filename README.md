@@ -11,7 +11,7 @@ Diagnose whether someone's ongoing delay on a decision is genuine indecision, an
 
 "Let me think about it" can mean several genuinely different things, and the right response is different for each. Pushing for a faster answer helps with indecision but does nothing for a real dependency, and treating a soft no as more patience needed just delays an honest answer everyone would rather have sooner.
 
-![Five possible causes of an ongoing delay.](assets/diagrams/01-whats-causing-this-delay.svg)
+[![Five possible causes of an ongoing delay.](assets/diagrams/01-whats-causing-this-delay.svg)](SKILL.md)
 
 ## Use It
 
