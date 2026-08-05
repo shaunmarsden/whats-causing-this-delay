@@ -13,6 +13,8 @@ Diagnose whether someone's ongoing delay on a decision is genuine indecision, an
 
 [![Five possible causes of an ongoing delay.](assets/diagrams/01-whats-causing-this-delay.svg)](SKILL.md)
 
+**Not what you need?** This is for a decision that is still open and ongoing. If it has already closed, been rejected, or gone quiet for good, [Post-Mortem Builder](https://github.com/shaunmarsden/post-mortem-builder) is probably the one you want.
+
 ## Use It
 
 Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemini, or similar), then paste in the exchange so far and how long it has gone on. It diagnoses:
