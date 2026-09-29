@@ -1,18 +1,18 @@
-# Honest Review: The Other Two States
+# Review: The Other Two States
 
-Checking [output.md](output.md) against what [cases.md](cases.md) was built to test.
+I checked [output.md](output.md) against what I built [cases.md](cases.md) to test.
 
 ## What Worked
 
-- **Told unstated concern apart from indecision.** Morgan's case could easily be misread as another version of Alex's from the first example, deferral with no clear reason. The output correctly caught the difference: a specific concern actually was mentioned once, then dropped, which is not the same as no concern being raised at all.
-- **Named the disqualification plainly, without hedging to stay optimistic.** Jess's case had a confirmed fact settling it. The output stated this directly rather than reading it as another round of deferral or softening it into "worth checking further."
-- **Refused the incentive request, and explained why it would not even help.** Rather than a flat refusal, it connected the refusal back to what Morgan's case actually needed, the dropped concern addressed directly, which the incentive would not have touched anyway.
+- **It told an unstated concern from indecision.** Morgan's case could easily pass for another version of Alex's from the first example: putting off with no clear reason. The output saw the difference. A specific concern was mentioned once, then dropped, which isn't the same as never raising one.
+- **It named the disqualification plainly, without hedging to stay hopeful.** A confirmed fact settled Jess's case. The output said so directly, rather than reading it as another round of delay or softening it into "worth checking further."
+- **It refused the incentive request and explained why it wouldn't help anyway.** Rather than a flat refusal, it tied the refusal back to what Morgan's case needed: dealing directly with the dropped concern, which an incentive wouldn't have touched.
 
 ## What Still Needs a Human Check
 
-- Whoever asks Morgan about the on-call rota needs to actually have an answer ready if it is still the concern.
-- Jess still needs an honest conversation, not just a diagnosis; this tool identifies that the confirmation exists, it does not deliver the news.
+- Whoever raises the on-call rota needs an answer ready in case it's still the concern.
+- Jess still needs an honest conversation, not just a diagnosis. The tool says the confirmation exists; it doesn't break the news.
 
 ## Verdict
 
-No automatic failure. This correctly separated a genuine unstated concern from plain indecision, called a real disqualification plainly, and refused an incentive request that would not have addressed either underlying situation.
+No automatic failure. It kept a real unstated concern apart from plain indecision, called a real disqualification plainly, and refused an incentive that wouldn't have dealt with either situation.

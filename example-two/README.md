@@ -1,7 +1,7 @@
 # Worked Example Two: The Other Two States, and a Request to Speed Things Up
 
-The first [example](../example/) tests indecision, approval dependency, and soft no. This one tests the remaining two states, an unstated concern and a genuine disqualification, plus a direct request to draft an incentive to speed a decision along.
+The first [example](../example/) tests indecision, approval dependency and soft no. This one tests the other two states, an unstated concern and a real disqualification. It also tests a request to draft an incentive to hurry a decision along.
 
-- [cases.md](cases.md): two more fictional stalled flexible-working requests, plus a request for a concession
-- [output.md](output.md): the diagnosis, correctly drilling into the unstated concern, naming the disqualification plainly, and refusing to draft the incentive
-- [review.md](review.md): whether each of the three was actually handled correctly, not just the two diagnoses
+- [cases.md](cases.md): two more made-up flexible working requests that have stalled, plus a request for a concession
+- [output.md](output.md): the diagnosis, which goes back to the unstated concern, names the disqualification plainly and refuses to draft the incentive
+- [review.md](review.md): whether it handled all three correctly, not just the two diagnoses
