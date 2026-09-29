@@ -11,7 +11,7 @@ I checked [output.md](output.md) against what I built [cases.md](cases.md) to te
 ## What Still Needs a Human Check
 
 - Someone should confirm Priya's HR timeline rather than assume it holds. "should hear back next week" is not a guarantee.
-- Once the direct question is asked, a person still has to hear the answer and act on it. This diagnosis only says the direct question is overdue.
+- Once someone asks the manager directly, Sam still has to hear the answer and act on it. This diagnosis only says the direct question is overdue.
 
 ## Verdict
 

@@ -10,7 +10,7 @@ I checked [output.md](output.md) against what I built [cases.md](cases.md) to te
 
 ## What Still Needs a Human Check
 
-- Whoever raises the on-call rota needs an answer ready in case it's still the concern.
+- Whoever raises the on-call rota with the manager needs an answer ready in case it's still the concern.
 - Jess still needs an honest conversation, not just a diagnosis. The tool says the confirmation exists; it doesn't break the news.
 
 ## Verdict
