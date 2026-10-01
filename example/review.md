@@ -1,18 +1,18 @@
-# Honest Review: Three Stalled Approvals
+# Review: Three Stalled Approvals
 
-Checking [output.md](output.md) against what [cases.md](cases.md) was built to test.
+I checked [output.md](output.md) against what I built [cases.md](cases.md) to test.
 
 ## What Worked
 
-- **Told indecision apart from a dependency, correctly.** Alex's case and Priya's case could both superficially look like "the manager hasn't decided yet." The output correctly used the manager's own prior approvals as evidence against a policy concern for Alex, and correctly used Priya's manager's explicit, named dependency (HR's policy update) as evidence this was never indecision at all.
-- **Refused to reassure where reassurance does nothing.** For Priya, the output did not suggest making the decision feel safer, since the actual blocker is an external process no amount of reassurance speeds up. Suggesting a trial period or review date for Priya, the way it correctly did for Alex, would have missed what was actually happening.
-- **Called the soft no a soft no rather than more patience.** Sam's case has the same surface shape as Alex's, deferral with no stated concern, but the escalating pattern (five deferrals, slowing responses, no answer even when asked directly) is different. The output caught this pattern and recommended a direct question rather than defaulting to the same "make it feel safer" response that worked for Alex.
+- **It told indecision from a dependency.** Alex's case and Priya's could both look like "the manager hasn't decided yet." For Alex, the output used the manager's past approvals as evidence against a policy concern. For Priya, it used the manager's clear, named dependency (HR's policy update) as evidence that this was never indecision.
+- **It didn't reassure where reassurance does nothing.** For Priya, the output didn't suggest making the decision feel safer, since the blocker is an outside process that no reassurance speeds up. Suggesting a trial period or review date for Priya, as it rightly did for Alex, would have missed what was happening.
+- **It called the soft no a soft no, rather than a need for more patience.** On the surface Sam's case looks like Alex's: putting off with no stated concern. But the pattern is getting worse (five deferrals, slower replies, no answer even when asked directly). The output caught this and suggested a direct question, rather than the "make it feel safer" response that fitted Alex.
 
 ## What Still Needs a Human Check
 
-- Priya's HR timeline should actually be confirmed rather than assumed to hold; "should hear back next week" is not itself a guarantee.
-- Sam's actual answer, once asked directly, still needs a human to receive and act on; this diagnosis only identifies that the direct question is overdue.
+- Someone should confirm Priya's HR timeline rather than assume it holds. "should hear back next week" is not a guarantee.
+- Once someone asks the manager directly, Sam still has to hear the answer and act on it. This diagnosis only says the direct question is overdue.
 
 ## Verdict
 
-No automatic failure. Three surface-similar stalls were correctly told apart, and each got a genuinely different recommended next step rather than one generic "be patient and reassure" response applied to all three.
+No automatic failure. It told apart three stalls that look alike, and gave each a different next step rather than one generic "be patient and reassure" response for all three.
