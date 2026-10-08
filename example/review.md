@@ -10,7 +10,8 @@ I checked [output.md](output.md) against what I built [cases.md](cases.md) to te
 
 ## What Still Needs a Human Check
 
-- Someone should confirm Priya's HR timeline rather than assume it holds. "should hear back next week" is not a guarantee.
+- Someone should confirm Priya's HR timeline rather than assume it holds. "should hear back from them next week" is not a guarantee.
+- The skill asks for what was said to be labelled apart from what's read from tone or timing. The output doesn't label them, though phrases like "this reads as" mark the readings.
 - Once someone asks the manager directly, Sam still has to hear the answer and act on it. This diagnosis only says the direct question is overdue.
 
 ## Verdict
