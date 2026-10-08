@@ -9,7 +9,7 @@ Work out whether someone's delay on a decision is indecision, a concern they hav
 
 ## Why
 
-"Let me think about it" can mean several different things, and each needs a different response. Pushing for a faster answer helps with indecision but does nothing when they're waiting on someone else. Treating a soft no as a need for more patience only puts off a straight answer everyone would rather have sooner.
+"Let me think about it" can mean several different things, and each needs a different response. Pushing for a faster answer doesn't help with indecision, and does nothing when they're waiting on someone else. Treating a soft no as a need for more patience only puts off a straight answer.
 
 [![Five possible causes of an ongoing delay.](assets/diagrams/01-whats-causing-this-delay.svg)](SKILL.md)
 

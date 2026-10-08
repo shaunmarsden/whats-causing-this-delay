@@ -11,6 +11,8 @@ I checked [output.md](output.md) against what I built [cases.md](cases.md) to te
 ## What Still Needs a Human Check
 
 - Whoever raises the on-call rota with the manager needs an answer ready in case it's still the concern.
+- The output cites the guardrail against inventing a concession. The stop condition for any request to draft an incentive, whichever state is diagnosed, applies too, and the output doesn't mention it.
+- The output treats Jess's case as settled. The policy is new this week, so the fit changed rather than was never there, and the case doesn't say an exception is impossible. Someone should confirm that before anyone tells Jess no.
 - Jess still needs an honest conversation, not just a diagnosis. The tool says the confirmation exists; it doesn't break the news.
 
 ## Verdict
