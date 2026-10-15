@@ -8,7 +8,7 @@ Source: [cases.md](cases.md), fictional.
 
 **What actually helps:** make the decision feel safer, not more urgent. A trial period with a set review date, framed as reversible rather than permanent, addresses the likely fear directly. Pushing for a faster answer does not address it.
 
-## Case B: Priya
+## Case B: Verity
 
 **Diagnosis: Approval dependency.** This is not indecision at all. A specific, named external process (HR's policy update) has been stated as the actual blocker, with a stated timeframe. Nothing about this delay depends on the manager's own comfort with the decision.
 
